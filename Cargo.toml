@@ -1,5 +1,5 @@
 [package]
-name = "FQ_SchemeParser"
+name = "fq_scheme_parser"
 version = "0.1.0"
 edition = "2021"
 description = "A simple URI scheme parser for ssr, vmess and etc. "
