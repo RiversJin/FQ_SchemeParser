@@ -37,7 +37,7 @@ mod tests {
             v: "2".to_string(),
             ps: "I'm remark".to_string(),
             add: "wordpress.org".to_string(),
-            port: "443".to_string(),
+            port: 443.to_string(),
             id: "xxxx-xxxx-xxxx-xxxx".to_string(),
             aid: "0".to_string(),
             scy: "none".to_string(),
